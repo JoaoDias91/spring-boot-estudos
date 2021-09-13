@@ -17,6 +17,8 @@ public class Employee {
         this.role = role;
     }
 
+    Employee(){}
+
     public Long getId() {
         return id;
     }
